@@ -3,7 +3,7 @@ Author: Steven Lambert<br>
 Website: http://blog.sklambert.com/endless-runner-html5-game/<br>
 Play Game: https://tutsplus.github.io/kandi-runner/<br>
 
-[![CarDEalerShip](https://raw.githubusercontent.com/ashishsiot/endless-runner-html5-game/master/game.PNG)](https://tutsplus.github.io/kandi-runner/)
+[![endless-runner](https://raw.githubusercontent.com/ashishsiot/endless-runner-html5-game/master/game.PNG)](https://tutsplus.github.io/kandi-runner/)
 
 Description: An Endless Runner style HTML5 canvas game tutorial series.</br>
 
